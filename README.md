@@ -1,2 +1,1 @@
-# mypg_util
-Postgresql Query Helper
+# Postgresql Query Helper
